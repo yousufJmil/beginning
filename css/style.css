@@ -1,0 +1,42 @@
+.bg{
+    font-size: 80px;
+    color:orange;
+    background: skyblue;
+    border: 6px solid black;
+
+}
+
+.fs{
+	font-size: 100px;
+    color:orange;
+    background: skyblue;
+    border: 6px solid black;
+}
+
+.ol{
+	font-size: 50px;
+    color:whitesmoke;
+    background: skyblue;
+    
+}
+.cd{
+	font-size: 30px;
+    color:whitesmoke;
+    background: skyblue;
+}
+
+#ul{
+	font-size: 50px;
+    color:whitesmoke;
+    background: skyblue;
+}
+
+.li{
+	font-size: 20px;
+    color:green;
+}
+
+.uli{
+    font-size: 20px;
+    color: red;
+}
